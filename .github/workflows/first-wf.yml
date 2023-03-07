@@ -11,6 +11,7 @@ jobs:
         run: |
             echo "Hello World!"
             echo "How you doing..?"
+            echo "How you doing2..?"
         
       - name: Print Goodbye
         run: echo "Hasta..."
